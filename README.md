@@ -11,5 +11,5 @@ next?
 
 ## Prac5
 Fetch & merge
-A
+A  
 B
