@@ -10,6 +10,7 @@ next?
 - Subject: Github
 
 ## Prac5
-Fetch & merge
+Fetch & merge  
 A  
-B
+B  
+C
