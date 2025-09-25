@@ -13,4 +13,5 @@ next?
 Fetch & merge  
 A  
 B  
-C
+C  
+D  
